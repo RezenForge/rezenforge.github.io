@@ -1,0 +1,8 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "io.github.rezenforge.twa",
+    "sha256_cert_fingerprints": ["E4:C8:65:5B:4B:C0:70:50:F4:30:D3:B0:B5:6F:DF:1D:A5:27:98:3E:B9:C6:A1:B1:54:04:C5:5B:00:D3:A1:0A"]
+  }
+}]
